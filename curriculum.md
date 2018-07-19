@@ -40,8 +40,6 @@ Week 6 Introduction to Probability - The Science of Uncertainty
 
 Week 7 Algorithms
 
-https://courses.edx.org/course_modes/choose/course-v1:PennX+SD3x+2T2017/
-
 * [4 units](https://courses.edx.org/course_modes/choose/course-v1:PennX+SD3x+2T2017/)
 
 
