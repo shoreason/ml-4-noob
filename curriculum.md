@@ -18,16 +18,10 @@ Main Content by June 8th:
 First 7 lectures of Essence of Linear Algebra
 Group Lab & Discussion:
 
-June 5th 8:15am (up to Lecture 3)
-June 7th 8:15am (up to Lecture 5)
-Links:
-
-
 
 Additional Resources:
 
 MIT Linear Algebra Course
-
 
 
 Week 2 Linear Algebra Cont'd
@@ -37,8 +31,7 @@ Main Content by June 15th:
 Next 5 lectures of MIT's Linear Algebra course
 Group Lab & Discussion:
 
-June 12th 8:15am (up to Lecture 9)
-June 14th 8:15am (up to Lecture 11)
+
 Week 3 Linear Algebra Cont'd
 
 Main Content by June 22nd:
@@ -46,11 +39,8 @@ Main Content by June 22nd:
 Last 3 lectures of MIT's Linear Algebra course
 Group Lab & Discussion:
 
-June 19th 8:15am (up to Lecture 13)
-June 21st 8:15am (up to Lecture 15)
-June 26th 12pm - PacMan Landings (Linear Algebra Review)
-Week 4 Calculus
 
+Week 4 Calculus
 
 
 https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
@@ -60,7 +50,6 @@ Main Content by June 29th:
 First 6 videos of Essence of calculus
 Group Lab & Discussion:
 
-June 26th 12:30pm - PacMan Landings (Calculus Kickoff)
 
 Links:
 
@@ -73,7 +62,7 @@ Main Content by July 6th:
 Last 6 videos of Essence of calculus
 Group Lab & Discussion:
 
-July 3rd 12:30pm - PacMan Landings (up to Lecture 9)
+
 
 Links:
 
@@ -85,7 +74,6 @@ Main Content by July 13th:
 
 First 5 units
 Group Lab & Discussion:
-
 
 
 
@@ -102,12 +90,10 @@ Main Content:
 Last 5 units
 Group Lab & Discussion:
 
-July 17th 12:30pm - PacMan Landings (Probability Kickoff)
 
 Links:
 
 https://courses.edx.org/courses/course-v1:MITx+6.041x_4+1T2017/course/
-
 
 
 Week 8 Algorithms
@@ -117,7 +103,6 @@ Main Content
 4 units
 Group Lab & Discussion:
 
-July 24th 12:30pm - PacMan Landings (Probability Kickoff)
 
 Links:
 
@@ -129,19 +114,13 @@ Week 9 - 10 Machine Learning
 
 Learn python for data science Playlist
 
-
-
 https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU
 
 Math of Intelligence Playlist
 
-
-
 https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D
 
 Intro to Tensorflow Playlist
-
-
 
 https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV
 
